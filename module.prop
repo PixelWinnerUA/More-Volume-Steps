@@ -1,0 +1,7 @@
+id=MoreVolumeSteps
+name=More Volume Steps
+version=v1
+versionCode=1
+author=PixelWinnerUa
+description=Magisk module for increasing volume steps.
+template=4
